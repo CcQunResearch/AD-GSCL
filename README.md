@@ -2,7 +2,7 @@
 
 Source code for AD-GSCL in paper: 
 
-**Anomaly Detection Framework with Graph Supervised Contrastive Learning for Debunking Rumor**
+**Anomaly Detection Framework with Graph Supervised Contrastive Learning for Rumor Debunking**
 
 ## Run
 
